@@ -1,0 +1,15 @@
+{
+  "name": "react-assignment-server",
+  "version": "1.0.0",
+  "description": "backend server for react assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
